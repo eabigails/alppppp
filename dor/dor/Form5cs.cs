@@ -12,6 +12,8 @@ namespace dor
 {
     public partial class Form5 : Form
     {
+
+        //TRANSAKSI
         private string categoryname;
         public Form5(string categoryName)
         {

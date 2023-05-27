@@ -9,6 +9,8 @@ namespace dor
 {
     public partial class Form4 : Form
     {
+
+        // PILIH KATEGORI KURSI
         private string selectedValue;
         MySqlConnection sqlConnection;
         MySqlCommand sqlCommand;
